@@ -6,7 +6,7 @@
 
 ## Note
 
-This repo is nodejs implement of [golang version](https://github.com/kkdai/maglev), *DO NOT* use it in production.
+This repo is nodejs implement of [golang version](https://github.com/kkdai/maglev), _DO NOT_ use it in production.
 
 ## License
 

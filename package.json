@@ -1,6 +1,6 @@
 {
   "name": "@zcong/maglev",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "maglev hash in node",
   "main": "./dist/index.js",
   "files": [
