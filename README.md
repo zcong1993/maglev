@@ -4,6 +4,10 @@
 
 > maglev hash in node
 
+## Note
+
+This repo is nodejs implement of [golang version](https://github.com/kkdai/maglev), *DO NOT* use it in production.
+
 ## License
 
 MIT &copy; zcong1993
